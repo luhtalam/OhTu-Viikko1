@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtu.ohtuvarasto.VarastoTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2017-03-15T11:46:38" hostname="Joni-MacBook-Air.local" time="0.016">
+  <properties/>
+  <testcase name="ottaminenPalauttaaOikeanMaaran" classname="ohtu.ohtuvarasto.VarastoTest" time="0.004"/>
+  <testcase name="saldonYliOttaminenPalauttaaSaldonVerran" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="negatiivinenLisaysEiMuutaSaldoa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="lisaysLisaaPienentaaVapaataTilaa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="konstruktori2LuoNegatiivisellaSaldollaNollaSaldon" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="lisaysLisaaSaldoa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="saldonYliOttaminenNollaaSaldon" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="konstruktori2LuoNegatiivisellaTilavuudellaNollaTilavuuden" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="toStringToimii" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="konstruktori2LuoSaldonJaTilavuudenOikein" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="negatiivisellaVarastonTilavuudellaVarastoJonkaTilavuusNolla" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="ottaminenLisääTilaa" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="negatiivinenOttamienPalauttaaNollan" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <testcase name="uudellaVarastollaOikeaTilavuus" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="konstruktoriLuoTyhjanVaraston" classname="ohtu.ohtuvarasto.VarastoTest" time="0.0"/>
+  <testcase name="eiVoilisataTilavuudenYli" classname="ohtu.ohtuvarasto.VarastoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
